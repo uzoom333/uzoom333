@@ -1,41 +1,92 @@
-# Hey, I'm Renato 👋
+<p align="center">
+  <img src="./banner.svg" alt="banner" width="100%"/>
+</p>
 
-Computer Science student from Goiânia, Brazil. Passionate about quantum computing and how it can reshape the way we solve complex problems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/renato-morais-mundim-filho-88919238b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:uzxcontato@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=uzoom333&color=60a5fa&style=flat-square&label=profile+views" />
+</p>
 
-Currently finishing my CS degree while diving deep into quantum software development with Qiskit and conducting undergraduate research in Linear Algebra and Linear Programming.
+---
 
-## About me
+### `> whoami`
 
-- 🎓 Computer Science — final semesters
-- 🔬 Undergraduate researcher in Linear Algebra / Linear Programming
-- ☕ Completed a FullStack Java learning track (Java, Spring Boot, Docker)
-- 🔭 Now focusing on Python + Quantum Computing with IBM Qiskit
-- 🧮 I enjoy the intersection between mathematics and code
+Computer Science student from Goiânia, Brazil. Interested in quantum computing and how it can reshape the way we solve complex problems.
 
-## Tech Stack
+Currently diving into quantum software development with Qiskit while conducting undergraduate research in Linear Algebra and Linear Programming.
 
-**Languages** — Java, Python, SQL
+---
 
-**Backend** — Spring Boot, REST APIs
+### `> cat about.md`
 
-**Quantum** — Qiskit, Qiskit Aer, IBM Quantum
+```
+🎓  Computer Science
+🔬  Undergraduate researcher — Linear Algebra / Linear Programming
+☕  Completed FullStack Java track (Java, Spring Boot, Docker)
+🔭  Now focused on Python + Quantum Computing (IBM Qiskit)
+🧮  I enjoy the intersection between mathematics and code
+```
 
-**Tools** — Docker, Podman, Git, Linux, VS Code, Jupyter Lab
+---
 
-**Scientific Python** — NumPy, SciPy, Matplotlib
+### `> ls --skills`
 
-## Repositories
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
 
-| Repo | About |
-|------|-------|
-| [quantum-python-learning](https://github.com/uzoom333/quantum-python-learning) | ⚛️ Python + Quantum Computing — Qiskit and IBM Quantum Learning studies |
-| [ic-algebra-linear](https://github.com/uzoom333/ic-algebra-linear) | 🔬 Undergraduate Research — Linear Algebra and Linear Programming |
-| [scoreboard-simulator](https://github.com/uzoom333/scoreboard-simulator) | ⚡ CDC 6600 Scoreboard Simulator — dynamic instruction scheduling visualization |
-| [almofadinha](https://github.com/uzoom333/almofadinha) | ☕ Java Learning Journey — exercises and projects from my FullStack Java track |
-| [projetopaa](https://github.com/uzoom333/projetopaa) | 🚛 Optimal Driver-Route Assignment — final project for Algorithm Analysis (PAA) |
-| [pythonlearning](https://github.com/uzoom333/pythonlearning) | 🐍 Python from zero — daily exercises and notes |
+---
 
-## Let's connect
+### `> ls ~/projects`
 
-[![LinkedIn](https://img.shields.io/badge/-Renato%20Morais-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-morais-mundim-filho-88919238b/)
-[![Gmail](https://img.shields.io/badge/-uzxcontato@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:uzxcontato@gmail.com)
+| | Repo | About |
+|---|---|---|
+| ⚛️ | [quantum-python-learning](https://github.com/uzoom333/quantum-python-learning) | Python + Quantum Computing — Qiskit & IBM Quantum studies |
+| 🔬 | [ic-algebra-linear](https://github.com/uzoom333/ic-algebra-linear) | Undergraduate Research — Linear Algebra & Linear Programming |
+| ⚡ | [scoreboard-simulator](https://github.com/uzoom333/scoreboard-simulator) | CDC 6600 Scoreboard Simulator — dynamic scheduling visualization |
+| ☕ | [almofadinha](https://github.com/uzoom333/almofadinha) | Java Learning Journey — FullStack Java track exercises |
+| 🚛 | [projetopaa](https://github.com/uzoom333/projetopaa) | Optimal Driver-Route Assignment — Algorithm Analysis (PAA) |
+| 🐍 | [pythonlearning](https://github.com/uzoom333/pythonlearning) | Python from zero — daily exercises and notes |
+
+---
+
+### `> git log --oneline`
+
+```
+🎯  Preparing for IBM Qiskit Developer Certification
+📚  Studying quantum computing through IBM Quantum Learning
+🔬  Conducting research in Linear Algebra & Linear Programming
+⚡  Built a CDC 6600 Scoreboard Simulator
+☕  Completed FullStack Java learning track
+🐍  Learned Python fundamentals
+```
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uzoom333&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0e1a&title_color=60a5fa&icon_color=a78bfa&text_color=94a3b8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzoom333&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0e1a&title_color=60a5fa&text_color=94a3b8" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzoom333&theme=github-dark-blue&hide_border=true&background=0a0e1a&stroke=1e293b&ring=60a5fa&fire=a78bfa&currStreakLabel=60a5fa&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" width="60%" />
+</p>
+
+---
+
+<p align="center">
+  <sub>⚡ <i>"The best way to predict the future is to create it."</i></sub>
+</p>
