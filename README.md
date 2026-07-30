@@ -56,7 +56,7 @@ An interactive visualization of the CDC 6600 Scoreboard algorithm and its treatm
 
 **Technical focus:** computer architecture, dynamic scheduling, HTML, CSS, and JavaScript.
 
-#### [Driver-to-Route Assignment Optimization](https://github.com/uzxcontato-ui/projetopaa)
+#### [Driver-to-Route Assignment Optimization](https://github.com/uzoom333/driver-route-assignment-optimization)
 
 A university Algorithm Design project comparing greedy and Hungarian approaches to a bipartite assignment problem.
 
