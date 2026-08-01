@@ -11,7 +11,7 @@
 
 ```text
 Computer Science student and undergraduate researcher
-Goiânia, Goiás, Brazil
+Brazil
 ```
 
 I am building a rigorous foundation in mathematics and computation before eventually specializing in AI Engineering. My current work centers on Linear Algebra, mathematical optimization, scientific computing, data analysis, and introductory quantum computing.
