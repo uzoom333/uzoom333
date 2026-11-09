@@ -1,6 +1,6 @@
 ## Renato Morais
 
-Computer Science student at PUC Goiás, Goiânia, Brazil.
+Computer Science student, Brazil.
 Looking for work in AI and optimization, with interest in forecasting for the financial market.
 
 ### Projects
